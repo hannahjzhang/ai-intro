@@ -1,5 +1,5 @@
 # ai-intro
-Simple ai explorations
+Attempts at utilizing AI to create visualizations.
 
 Dependencies:
 ```
